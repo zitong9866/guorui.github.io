@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Stay joyful, stay joyful every day"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "UCAS"
+  uri              : 
+  email            :  
 
   # Academic websites
   academia         : # URL
